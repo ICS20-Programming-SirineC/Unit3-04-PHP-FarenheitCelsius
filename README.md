@@ -1,1 +1,2 @@
 # Unit3-04-PHP-FarenheitCelsius
+[![GitHub's Super Linter](https://github.com/ICS20-Programming-SirineC/Unit3-04-PHP-FarenheitCelsius/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/ICS20-Programming-SirineC/Unit3-04-PHP-FarenheitCelsius/actions)
